@@ -17,7 +17,7 @@ Python과 SQL 기반 데이터 분석 역량을 바탕으로, GIS 공간 분석�
 |---|---|---|---|
 | 1 | Seattle EV Charging Station Web GIS | 팀(4인) | Mapbox GL JS, Turf.js, GeoJSON, JavaScript |
 | 2 | Mobility Infrastructure Imbalance Analysis | 팀(5인) | Python, Pandas, Streamlit, Folium, MySQL, Selenium |
-| 3 | OULAD Dropout Prediction & Clustering | 팀(3인) | Python, Scikit-learn, MLflow, MySQL, Docker, Streamlit |
+| 3 | OULAD Dropout Prediction & Clustering | 팀(5인) | Python, Scikit-learn, MLflow, MySQL, Docker, Streamlit |
 
 ---
 
