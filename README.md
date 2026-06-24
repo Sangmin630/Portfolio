@@ -4,8 +4,7 @@
 
 ### GitHub Repository
 
-* GitHub : [https://github.com/프로젝트주소](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN25-FINAL-6Team/tree/main)
-
+* GitHub : https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN25-FINAL-6Team/tree/main
 ---
 
 ## 프로젝트 개요
